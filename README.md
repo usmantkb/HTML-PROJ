@@ -8,10 +8,10 @@ introduction to HTML5, covering the fundamentals of web page structure, elements
 
 ### Morning:
 **Introduction to HTML:**
-- [ ] What is HTML and its role in web development?
-- [ ]  The anatomy of HTML syntax: tags, attributes, content.
-- [ ] The importance of HTML in creating web pages.
-- [ ] Overview of web browsers and how they render HTML.
+- [X] What is HTML and its role in web development?
+- [X]  The anatomy of HTML syntax: tags, attributes, content.
+- [X] The importance of HTML in creating web pages.
+- [X] Overview of web browsers and how they render HTML.
 
 **HTML Boilerplate and Doctypes:**
 - [ ]  Understanding the basic structure of an HTML document.
